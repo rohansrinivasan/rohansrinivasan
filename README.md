@@ -10,7 +10,8 @@
 
  ### 📈 My Github Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansrinivasan&hide=contribs,prs)
-)
+
+ ### 📈 My ongoing Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rohansrinivasan&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
