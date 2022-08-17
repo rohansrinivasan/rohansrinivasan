@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Structures and C++
 - ⚡ Fun fact: "Switching to your sidearm is always faster than reloading" - Gaz
 
-[![Linkedin: Rohan Srinivasan](https://img.shields.io/badge/-RohanSrinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)](https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)
+[![Linkedin: Rohan Srinivasan](https://img.shields.io/badge/-RohanSrinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)](https://www.linkedin.com/in/rohansrinivasann/)
 
  ### 📈 My Github Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansrinivasan&theme=radical)
