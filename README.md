@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on 5G
-- 🌱 I’m currently learning Data Structures and C++
+- 🌱 I’m currently learning Microcontroller Driver Development and Bare Metal Programming
 - ⚡ Fun fact: "Switching to your sidearm is always faster than reloading" - Gaz
 
 [![Linkedin: Rohan Srinivasan](https://img.shields.io/badge/-RohanSrinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)](https://www.linkedin.com/in/rohansrinivasann/)
