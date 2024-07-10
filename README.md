@@ -8,8 +8,8 @@
 
 [![Linkedin: Rohan Srinivasan](https://img.shields.io/badge/-RohanSrinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)](https://www.linkedin.com/in/rohansrinivasann/)
 
-[![Medium: Rohan Srinivasan]([https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohansrinivasann/)]
-
+[![Medium: Rohan Srinivasan]([https://img.shields.io/badge/-RohanSrinivasan-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rohansrinivasann/)]
+(https://medium.com/@rohansrinivasann/)
 
  ### 📈 My Github Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansrinivasan&theme=radical)
