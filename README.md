@@ -2,8 +2,8 @@
 ### 👋 Hi there, welcome to my page!
 
 
-- 🔭 I’m currently working on micrcontrollers
-- 🌱 I’m currently learning FreeRTOS and Embedded C Programming
+- 🔭 I’m currently working on microntrollers
+- 🌱 I’m currently learning RTOS and tinkering with Kernels.
 - ⚡ Fun fact: "Switching to your sidearm is always faster than reloading" - Gaz
 
 [![Linkedin: Rohan Srinivasan](https://img.shields.io/badge/-RohanSrinivasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-srinivasan-2457591b1/)](https://www.linkedin.com/in/rohansrinivasann/)
