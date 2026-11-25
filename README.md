@@ -2,7 +2,7 @@
 ### 👋 Hi there, welcome to my page!
 
 
-- 🔭 I’m currently working on microntrollers
+- 🔭 I’m currently working on augmented reality, drones, gps trackers
 - 🌱 I’m currently learning RTOS and tinkering with Kernels.
 - ⚡ Fun fact: "Switching to your sidearm is always faster than reloading" - Gaz
 
